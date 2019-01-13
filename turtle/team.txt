@@ -1,0 +1,9 @@
+Team Members-
+1) Murtaza Mushtaq (301347189)
+2) Wael Yacoub Agha (301348817)
+
+Estimated time to complete assignment= 3 Hours 
+
+After coming up with the idea of drawing the AQ Pond, Murtaza was incharge to draw the lawn, pond and the pathway.
+Wael Yacoub wrote functions and drew little fishes and humans.
+We worked together to figure out the random color function which lets the system choose a color randomly and assign it to the fishes.
