@@ -1,0 +1,12 @@
+Group members:
+1) Murtaza Mushtaq
+	Student ID# 301347189
+2)Taalib Bhatti
+	Student ID# 301324537
+3)Todor Baljak
+	Student ID# 3013332526
+
+
+Our project took around 9 hours to be completely written. Murtaza and Taalib did the coding part while Todor,
+defined functions and built the flowchart. Everyone made sure that they contributed equal amounts of time in the 
+assignment. 
